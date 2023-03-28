@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <style>
+      .navbar{
+      margin-bottom: 0px;
+      border-radius: 25px;
+      }
+      footer{
+          background-color:#f2f2f2;
+          padding: 20px;
+      }
+  </style>
+</head>
+<body>
+       
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+         <span class="icon-bar"></span>
+        
+                           
+      </button>
+      <a class="navbar-brand" href="#"></a>
+    <h3>PORTFOLIO</h3>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Home</a></li> 
+        <span class="icon-bar"></span>                        
+      </button> 
+        <li><a href="#">Contact</a></li>
+           <li><a href="#">About</a></li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+ </ul>
+    </div>
+  </div>
+</nav>
+
+<div class="jumbotron">
+  <div class="container text-center">
+      <h1> My Portfolio</h1>
+    <h3>"This portfolio refers to MYSELF, MY FAMILY,MY FRIENDS"</h3>
+  </div>
+</div>
+  
+<div class="container-fluid bg-3 text-center">    
+  <h2>"This picture presented about MY FAMILY"</h2><br>
+  <div class="row">
+    <div class="col-sm-3">
+      <p>A house doesn't make a home. What makes it a home is the family that lives in it.Blessed to be in this family.Having it all together is not important. What matters is that by being together.Just a simple, happy family.
+Keep the real ones close.
+Let's never stop making memories together.</p>
+      <img src="content://com.android.providers.media.documents/document/image%3A1000303947 https://scontent.xx.fbcdn.net/v/t1.15752-9/332932072_941617200591602_3538999010004890376_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeGXVDnJRqIVdiUTX1yvwd3gIpjN5Zur9YEimM3lm6v1gXlHOWbMKudQgCgg9Hl2Fojm-dDEy1e79fQEGiQzXCI3&_nc_ohc=LIIaLmjk0QQAX8v879k&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTaPb0WiXZpHSMeNqftYi2PzRHfIRMXMsXDjZuxWOo-Lw&oe=6430BCE2" class="img-responsive" style="width:100%" alt="Image">
+    <div class="col-sm-3"> 
+      <h2>"This picture presented about MY FRIENDS in JHS & SHS"</h2><br>
+      <img src="content://com.android.providers.media.documents/document/image%3A1000303059 https://scontent.xx.fbcdn.net/v/t1.15752-9/330986870_969027774537032_6515371960379662765_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeGDvOS-S1QrcXb-knLOHj2a4RKk45jLCWnhEqTjmMsJad9hKicqCUc5EqwIQ8tcVmYfQMlBQUr8s9DAQytoAP_1&_nc_ohc=XPsQoq8YgyoAX99X8zd&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdSgRcXOzqHRKu_VzKJ-udxKT9fPRS-sZmutoa2eXeyaxg&oe=6430C98C" class="img-responsive" style="width:100%" alt="Image">
+ <div class="container-fluid bg-3 text-center">    
+  <h2>"This picture presented about MY FRIENDS in College"</h2><br>
+  <div class="row">
+    <div class="col-sm-3">
+     <p>Our friends shine with their own light and can dispel the darknessof loneliness and darkness and sadness in our lives.I have no reason to find sadness you say, and when such memories pop into my mind. You inspire joy and happiness.
+ </p>
+      <img src="content://com.android.providers.media.documents/document/image%3A1000296210 https://scontent.xx.fbcdn.net/v/t1.15752-9/330969342_908678080181482_843237247410468272_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeEIwA7tCHrxRNyv86mh61PiNKHuWGen1ng0oe5YZ6fWeO_cgMUido-KTWBbK0lJDJPjosgVuFw5Xy6jTnerwuwV&_nc_ohc=QFVZLfx5mWcAX8ul7Dr&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdROum4i_3ohpsNj_GmUrJoE4bt_nzgtTjVOIpvWurHKzg&oe=6430D0AD" class="img-responsive" style="width:100%" alt="Image">
+<div class="container-fluid bg-3 text-center">    
+  <h2>"This picture presented about MYSELF"</h2><br>
+  <div class="row">
+    <div class="col-sm-3"></div>
+      <p>I am thankful to the Lord and my family because they are my inspiration to finish my jhs and shs and because I am already in my 1st year of college I do not waste their trust in my studies. I want to finish my studies so that I can make up for their hard work for me.
+ </p>
+      <img src="content://com.android.providers.media.documents/document/image%3A1000302276 https://scontent.xx.fbcdn.net/v/t1.15752-9/333294799_696602422468551_2250403803368331297_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=aee45a&_nc_eui2=AeEUewtxbQmKzvkWDLP9TzLMre5_BfIFSRWt7n8F8gVJFVHbruwaMhlAa4rNiZyqwyGamm4cEM7lrCIRCPKu_Qx9&_nc_ohc=7p0-_P5uwqIAX_sQkxS&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdT0V57399Ks5re4LHv-9emLLMCb2Io1DkDFSTNas7RkxA&oe=6430D457"class="img-responsive" style="width:100%" alt="Image">
+        
+  <div>
+</div><br>
+<footer class="container-fluid text-center">
+  <p>Footer Text</p>
+</footer>
+
+</body>
+</html>
